@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\source\\cpp\\variant_combat\\combatgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\x64\\cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp\\definitions.cpp.h",
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\source\\cpp\\variant_combat\\combatgamemode.h",
+            "e:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "e:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp\\uht\\combatgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp\\uht\\sidescrollingcameramanager.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\x64\\cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cpp\\definitions.cpp.h",
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\source\\cpp\\variant_sidescrolling\\sidescrollingcameramanager.h",
+            "c:\\users\\lukas\\documents\\gitkraken\\unrealzajecia\\cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\cpp\\uht\\sidescrollingcameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

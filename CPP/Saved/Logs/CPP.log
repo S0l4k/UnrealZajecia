@@ -1484,3 +1484,456 @@ Detoured run took 981ms
 [2025.11.12-16.45.21:664][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2425.314697
 [2025.11.12-16.45.22:665][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.12-16.45.22:665][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2425.983154, Update Interval: 338.704193
+[2025.11.12-16.49.00:758][530]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.12-16.51.15:636][124]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/CPP.uproject" -game -rocket -progress
+[2025.11.12-16.51.16:140][124]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.11.12-16.51.16:241][124]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/CPP.uproject" -game -rocket -progress
+[2025.11.12-16.51.17:751][124]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.11.12-16.51.17:953][124]
+[2025.11.12-16.51.17:953][124]Generating VisualStudio project files:
+[2025.11.12-16.51.17:953][124]Discovering modules, targets and source code for project...
+[2025.11.12-16.51.17:953][124]Adding projects for all targets...
+[2025.11.12-16.51.18:356][124]Available x64 toolchains (1):
+[2025.11.12-16.51.18:356][124] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2025.11.12-16.51.18:356][124]    (Family=14.44.35207, FamilyRank=1, Version=14.44.35217, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2025.11.12-16.51.18:356][124]Unavailable x64 toolchains (1):
+[2025.11.12-16.51.18:356][124] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807
+[2025.11.12-16.51.18:356][124]    (Family=14.40.33807, FamilyRank=1, Version=14.40.33821, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64, Error="UnrealBuildTool has banned the MSVC 14.40.33807-14.40.99999 toolchains due to compiler issues. Please install a different toolchain such as 14.38.33130 by opening the generated solution and installing recommended components or from the Visual Studio installer.")
+[2025.11.12-16.51.18:356][124]Visual Studio 2022 compiler version 14.44.35217 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.11.12-16.51.18:958][124]Adding projects for all targets took 0.99s
+[2025.11.12-16.51.18:958][124]Adding projects for all game projects took 0.00s
+[2025.11.12-16.51.19:360][124]Adding projects for all modules took 0.40s
+[2025.11.12-16.51.19:561][124]Compiling Rules Assemblies
+[2025.11.12-16.51.19:562][124]Compiling Rules Assemblies 100%
+[2025.11.12-16.51.19:562][124]Creating Build Targets
+[2025.11.12-16.51.22:078][124]Creating Build Targets 100%
+[2025.11.12-16.51.22:078][124]Creating Build Targets took 2.50s
+[2025.11.12-16.51.22:078][124]Binding IntelliSense data...
+[2025.11.12-16.51.26:929][124]Binding IntelliSense data... 100%
+[2025.11.12-16.51.26:929][124]Binding IntelliSense data took 4.87s
+[2025.11.12-16.51.26:929][124]Writing project files...
+[2025.11.12-16.51.29:597][124]Writing project files... 100%
+[2025.11.12-16.51.29:597][124]Writing project files took 2.67s
+[2025.11.12-16.51.29:598][124]
+[2025.11.12-16.51.29:598][124]Generating QueryTargets data for editor...
+[2025.11.12-16.51.29:598][124]Compiling Rules Assemblies
+[2025.11.12-16.51.29:598][124]Compiling Rules Assemblies 100%
+[2025.11.12-16.51.29:598][124]Writing Query Target Info
+[2025.11.12-16.51.29:698][124]Writing Query Target Info 100%
+[2025.11.12-16.51.29:698][124]Generating QueryTargets data for editor took 0.08s
+[2025.11.12-16.51.29:698][124]
+[2025.11.12-16.51.29:698][124]Result: Succeeded
+[2025.11.12-16.51.29:698][124]Total execution time: 12.44 seconds
+[2025.11.12-16.51.45:563][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2809.215088
+[2025.11.12-16.51.45:726][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-16.51.45:726][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2809.368164, Update Interval: 300.075073
+[2025.11.12-16.51.56:672][869]LogSlate: External Image Picker: DecompressImage failed
+[2025.11.12-16.51.58:627][885]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.11.12-16.52.34:354][563]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.12-16.52.34:390][563]LogSlate: Window 'Project Settings' being destroyed
+[2025.11.12-16.53.05:485][714]LogSlate: Took 0.027508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.12-16.53.11:282][908]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-16.53.12:491][908]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.11.12-16.53.13:277][909]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.11.12-16.53.14:463][932]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.12-16.53.16:193][949]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-16.53.16:808][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-16.53.16:873][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01] ([1] browsable assets)...
+[2025.11.12-16.53.16:873][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01]
+[2025.11.12-16.53.16:873][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.uasset" SILENT=true
+[2025.11.12-16.53.17:033][949]LogSavePackage: Moving output files for package: /Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01
+[2025.11.12-16.53.17:034][949]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SKM_Pirate_Full_0136A03F754845DC2FDB80C3B7DB7E5C92.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.uasset'
+[2025.11.12-16.53.17:132][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Urban_Nomad/Mesh/SKM_Urban_Nomad] ([1] browsable assets)...
+[2025.11.12-16.53.17:132][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Urban_Nomad/Mesh/SKM_Urban_Nomad]
+[2025.11.12-16.53.17:132][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Urban_Nomad/Mesh/SKM_Urban_Nomad" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Urban_Nomad/Mesh/SKM_Urban_Nomad.uasset" SILENT=true
+[2025.11.12-16.53.17:334][949]LogSavePackage: Moving output files for package: /Game/Urban_Nomad/Mesh/SKM_Urban_Nomad
+[2025.11.12-16.53.17:334][949]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SKM_Urban_NomadA47360A34E179EC7E63A5FBE3AAC7059.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Urban_Nomad/Mesh/SKM_Urban_Nomad.uasset'
+[2025.11.12-16.53.17:337][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assts/SKM_Pirate_Full_01] ([1] browsable assets)...
+[2025.11.12-16.53.17:337][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assts/SKM_Pirate_Full_01]
+[2025.11.12-16.53.17:337][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assts/SKM_Pirate_Full_01" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SKM_Pirate_Full_01.uasset" SILENT=true
+[2025.11.12-16.53.18:152][949]LogSavePackage: Moving output files for package: /Game/Assts/SKM_Pirate_Full_01
+[2025.11.12-16.53.18:152][949]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SKM_Pirate_Full_0198570CE147E0D6B9A346ABB526F9623B.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SKM_Pirate_Full_01.uasset'
+[2025.11.12-16.53.18:292][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assts/PA_Urban_Nomad] ([1] browsable assets)...
+[2025.11.12-16.53.18:292][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assts/PA_Urban_Nomad]
+[2025.11.12-16.53.18:292][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assts/PA_Urban_Nomad" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/PA_Urban_Nomad.uasset" SILENT=true
+[2025.11.12-16.53.18:307][949]LogSavePackage: Moving output files for package: /Game/Assts/PA_Urban_Nomad
+[2025.11.12-16.53.18:307][949]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/PA_Urban_NomadEE4205F1402852EBC299228A9FA29F87.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/PA_Urban_Nomad.uasset'
+[2025.11.12-16.53.18:329][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.52 sec
+[2025.11.12-16.53.18:673][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.11.12-16.53.18:695][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.12-16.53.18:714][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.11.12-16.53.18:935][949]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.12-16.53.18:935][949]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.12-16.53.18:935][949]LogContentValidation: Enabled validators:
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-16.53.18:935][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-16.53.18:976][949]AssetCheck: /Game/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01 Validating asset
+[2025.11.12-16.53.18:976][949]AssetCheck: /Game/Urban_Nomad/Mesh/SKM_Urban_Nomad Validating asset
+[2025.11.12-16.53.18:976][949]AssetCheck: /Game/Assts/SKM_Pirate_Full_01 Validating asset
+[2025.11.12-16.53.18:976][949]AssetCheck: /Game/Assts/PA_Urban_Nomad Validating asset
+[2025.11.12-16.53.19:035][949]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-16.53.19:386][989]LogTexture: Display: Building textures: /Game/Pirate/Textures/Pirate_Hair/T_Pirate_Hair_Hair_Normals.T_Pirate_Hair_Hair_Normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 292.499988 MB), EncodeSpeed: Fast
+[2025.11.12-16.53.19:647][ 15]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_OcclusionRoughnessMetallic.T_Urban_Nomad_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.12-16.53.19:918][ 39]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_Normal.T_Urban_Nomad_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.12-16.53.24:458][291]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-16.53.24:646][292]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.11.12-16.53.26:787][413]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.12-16.53.26:846][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-16.53.26:846][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle] ([1] browsable assets)...
+[2025.11.12-16.53.26:846][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle]
+[2025.11.12-16.53.26:858][413]LogSavePackage: Moving output files for package: /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle
+[2025.11.12-16.53.26:859][413]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SM_SickleC6BFBFE7471ACC45842D149002E689C2.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle.uasset'
+[2025.11.12-16.53.26:861][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe] ([1] browsable assets)...
+[2025.11.12-16.53.26:861][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe]
+[2025.11.12-16.53.26:872][413]LogSavePackage: Moving output files for package: /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe
+[2025.11.12-16.53.26:873][413]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SM_AxeA01F1E1B4172B8BDE497D5B724453551.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe.uasset'
+[2025.11.12-16.53.26:875][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assts/SM_Sickle] ([1] browsable assets)...
+[2025.11.12-16.53.26:875][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assts/SM_Sickle]
+[2025.11.12-16.53.26:875][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assts/SM_Sickle" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Sickle.uasset" SILENT=true
+[2025.11.12-16.53.26:900][413]LogSavePackage: Moving output files for package: /Game/Assts/SM_Sickle
+[2025.11.12-16.53.26:900][413]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SM_SickleF27AC90B45C275BD9FFAEDB0B5D7ED73.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Sickle.uasset'
+[2025.11.12-16.53.26:908][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assts/SM_Axe] ([1] browsable assets)...
+[2025.11.12-16.53.26:908][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assts/SM_Axe]
+[2025.11.12-16.53.26:908][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assts/SM_Axe" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Axe.uasset" SILENT=true
+[2025.11.12-16.53.26:920][413]LogSavePackage: Moving output files for package: /Game/Assts/SM_Axe
+[2025.11.12-16.53.26:920][413]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SM_Axe945699EC40F692C5115BEB89D59E1EA4.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Axe.uasset'
+[2025.11.12-16.53.26:922][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.557 ms (total: 1.59 sec)
+[2025.11.12-16.53.27:001][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.12-16.53.27:023][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.11.12-16.53.27:042][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.12-16.53.27:066][413]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.12-16.53.27:066][413]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.12-16.53.27:066][413]LogContentValidation: Enabled validators:
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-16.53.27:066][413]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-16.53.27:067][413]AssetCheck: /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle Validating asset
+[2025.11.12-16.53.27:067][413]AssetCheck: /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe Validating asset
+[2025.11.12-16.53.27:105][413]AssetCheck: /Game/Assts/SM_Sickle Validating asset
+[2025.11.12-16.53.27:106][413]AssetCheck: /Game/Assts/SM_Axe Validating asset
+[2025.11.12-16.53.27:115][413]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-16.53.42:849][814]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.12-16.53.42:984][814]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.12-16.53.42:993][814]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.12-16.53.43:060][816]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.12-16.53.52:173][160]LogContentBrowser: Attempting asset rename: NewBlueprint -> ABasePlayerController
+[2025.11.12-16.53.52:457][160]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.12-16.54.07:440][273]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.12-16.54.07:449][273]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.12-16.54.07:459][273]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.12-16.54.07:478][274]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.12-16.54.12:923][476]LogContentBrowser: Attempting asset rename: NewBlueprint -> ABasePlayerCharacter
+[2025.11.12-16.54.12:936][476]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.12-16.54.23:205][663]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.12-16.54.23:214][663]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.12-16.54.23:224][663]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.12-16.54.23:240][664]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.12-16.54.24:720][720]LogTexture: Display: Building textures: /Game/Pirate/Textures/Pirate_Cloth/T_Pirate_Cloth_Normals.T_Pirate_Cloth_Normals (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.11.12-16.54.29:195][892]LogContentBrowser: Attempting asset rename: NewBlueprint -> ABaseEnemyCharacter
+[2025.11.12-16.54.29:206][892]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.12-16.54.40:345][208]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.12-16.54.40:353][208]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.12-16.54.40:364][208]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.12-16.54.40:392][210]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.12-16.54.47:142][467]LogContentBrowser: Attempting asset rename: NewBlueprint -> AMasterGameMode
+[2025.11.12-16.54.47:150][467]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.12-16.55.09:745][802]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.11.12-16.55.09:755][802]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.11.12-16.55.09:766][802]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.11.12-16.55.09:784][803]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.11.12-16.55.14:117][968]LogContentBrowser: Attempting asset rename: NewBlueprint -> ABaseCharacter
+[2025.11.12-16.55.14:126][968]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.11.12-16.55.42:714][468]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2025.11.12-16.55.55:328][776]LogSlate: Window 'IA_Move' being destroyed
+[2025.11.12-16.55.55:336][776]LogSlate: Window 'IA_Move' being destroyed
+[2025.11.12-16.56.08:029][314]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.11.12-16.56.08:038][314]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.11.12-16.56.08:054][315]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.11.12-16.56.15:142][583]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2025.11.12-16.56.15:231][583]LogContentBrowser: End creating deferred item NewInputAction
+[2025.11.12-16.56.16:814][646]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Attack.IA_Attack
+[2025.11.12-16.56.20:225][749]LogSlate: Window 'IA_Attack' being destroyed
+[2025.11.12-16.56.20:231][749]LogSlate: Window 'IA_Attack' being destroyed
+[2025.11.12-16.56.33:747][163]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.11.12-16.56.33:759][163]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.11.12-16.56.33:776][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.11.12-16.56.38:117][329]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2025.11.12-16.56.38:117][329]LogContentBrowser: End creating deferred item NewInputAction
+[2025.11.12-16.56.54:910][859]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2025.11.12-16.56.54:919][859]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2025.11.12-16.56.54:940][860]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2025.11.12-16.57.11:339][161]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> IMC_
+[2025.11.12-16.57.11:340][161]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2025.11.12-16.57.17:011][372]LogContentBrowser: Attempting asset rename: IMC_ -> IMC_Default
+[2025.11.12-16.57.17:530][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-16.57.17:530][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-16.57.17:530][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-16.57.17:530][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-16.57.17:581][372]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-16.57.17:581][372]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default90CF51414580C928E4DE6DA0880CAD10.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-16.57.17:583][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.067 ms (total: 1.65 sec)
+[2025.11.12-16.57.17:788][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.11.12-16.57.17:815][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.11.12-16.57.17:837][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.12-16.57.17:955][372]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-16.57.17:955][372]LogContentValidation: Enabled validators:
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-16.57.17:955][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-16.57.17:974][372]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-16.57.18:015][372]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-16.57.20:502][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3144.144775
+[2025.11.12-16.57.20:714][475]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-16.57.20:714][475]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3144.329590, Update Interval: 306.789764
+[2025.11.12-16.57.31:930][703]LogContentBrowser: Attempting asset rename: IMC_Default -> IMC_Default
+[2025.11.12-16.57.32:785][736]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/Actions/IMC_Default.IMC_Default
+[2025.11.12-17.03.04:249][ 31]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3487.890869
+[2025.11.12-17.03.05:248][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-17.03.05:248][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3488.557861, Update Interval: 336.494019
+[2025.11.12-17.03.57:616][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.12-17.03.57:619][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.054
+[2025.11.12-17.03.57:675][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluepritns/Characters/ABasePlayerController] ([2] browsable assets)...
+[2025.11.12-17.03.57:675][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluepritns/Characters/ABasePlayerController]
+[2025.11.12-17.03.57:802][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABasePlayerController.ABasePlayerController_C' for saving '/Game/Bluepritns/Characters/ABasePlayerController.ABasePlayerController_C'
+[2025.11.12-17.03.57:810][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABasePlayerController.ABasePlayerController_C' for saving '/Game/Bluepritns/Characters/ABasePlayerController.ABasePlayerController_C'
+[2025.11.12-17.03.57:821][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluepritns/Characters/ABasePlayerController_Auto1
+[2025.11.12-17.03.57:821][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/ABasePlayerController_Auto1F3372B9840C93BD7DA54B5937BF92893.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Bluepritns/Characters/ABasePlayerController_Auto1.uasset'
+[2025.11.12-17.03.57:823][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluepritns/Characters/ABasePlayerCharacter] ([2] browsable assets)...
+[2025.11.12-17.03.57:823][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluepritns/Characters/ABasePlayerCharacter]
+[2025.11.12-17.03.57:825][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABasePlayerCharacter.ABasePlayerCharacter_C' for saving '/Game/Bluepritns/Characters/ABasePlayerCharacter.ABasePlayerCharacter_C'
+[2025.11.12-17.03.57:825][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABasePlayerCharacter.ABasePlayerCharacter_C' for saving '/Game/Bluepritns/Characters/ABasePlayerCharacter.ABasePlayerCharacter_C'
+[2025.11.12-17.03.57:837][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluepritns/Characters/ABasePlayerCharacter_Auto1
+[2025.11.12-17.03.57:837][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/ABasePlayerCharacter_Auto1D63F246B472F7C1DF2386FB03721EC18.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Bluepritns/Characters/ABasePlayerCharacter_Auto1.uasset'
+[2025.11.12-17.03.57:838][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluepritns/Characters/ABaseEnemyCharacter] ([2] browsable assets)...
+[2025.11.12-17.03.57:838][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluepritns/Characters/ABaseEnemyCharacter]
+[2025.11.12-17.03.57:842][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABaseEnemyCharacter.ABaseEnemyCharacter_C' for saving '/Game/Bluepritns/Characters/ABaseEnemyCharacter.ABaseEnemyCharacter_C'
+[2025.11.12-17.03.57:843][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABaseEnemyCharacter.ABaseEnemyCharacter_C' for saving '/Game/Bluepritns/Characters/ABaseEnemyCharacter.ABaseEnemyCharacter_C'
+[2025.11.12-17.03.57:854][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluepritns/Characters/ABaseEnemyCharacter_Auto1
+[2025.11.12-17.03.57:855][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/ABaseEnemyCharacter_Auto1EC5E17A648A63C6DC2955C97DA07BBF7.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Bluepritns/Characters/ABaseEnemyCharacter_Auto1.uasset'
+[2025.11.12-17.03.57:857][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluepritns/Game/AMasterGameMode] ([2] browsable assets)...
+[2025.11.12-17.03.57:857][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluepritns/Game/AMasterGameMode]
+[2025.11.12-17.03.57:870][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluepritns/Game/AMasterGameMode_Auto1
+[2025.11.12-17.03.57:871][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/AMasterGameMode_Auto1B3932DDD4A53C9E386983E8EF36A1781.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Bluepritns/Game/AMasterGameMode_Auto1.uasset'
+[2025.11.12-17.03.57:872][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Bluepritns/Characters/ABaseCharacter] ([2] browsable assets)...
+[2025.11.12-17.03.57:872][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Bluepritns/Characters/ABaseCharacter]
+[2025.11.12-17.03.57:906][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABaseCharacter.ABaseCharacter_C' for saving '/Game/Bluepritns/Characters/ABaseCharacter.ABaseCharacter_C'
+[2025.11.12-17.03.57:906][148]LogWorldPartition: Can't find class descriptor '/Game/Bluepritns/Characters/ABaseCharacter.ABaseCharacter_C' for saving '/Game/Bluepritns/Characters/ABaseCharacter.ABaseCharacter_C'
+[2025.11.12-17.03.57:920][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Bluepritns/Characters/ABaseCharacter_Auto1
+[2025.11.12-17.03.57:920][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/ABaseCharacter_Auto14A66333B4D570B00F6BEE2B20D3912B3.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Bluepritns/Characters/ABaseCharacter_Auto1.uasset'
+[2025.11.12-17.03.57:924][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2025.11.12-17.03.57:924][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2025.11.12-17.03.57:938][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto1
+[2025.11.12-17.03.57:938][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IA_Attack_Auto1C8A7E82E407CA58A59EB8BB33A018FD1.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto1.uasset'
+[2025.11.12-17.03.57:939][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2025.11.12-17.03.57:939][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2025.11.12-17.03.57:955][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Interact_Auto1
+[2025.11.12-17.03.57:955][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IA_Interact_Auto1429CE3C84E2F2CEF0502EB9E89D07B1A.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Input/Actions/IA_Interact_Auto1.uasset'
+[2025.11.12-17.03.57:956][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.03.57:956][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.03.57:971][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IMC_Default_Auto1
+[2025.11.12-17.03.57:971][148]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default_Auto1215817604232267FB617BA9B147FC5C9.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/Autosaves/Game/Input/Actions/IMC_Default_Auto1.uasset'
+[2025.11.12-17.03.57:972][148]LogFileHelpers: Auto-saving content packages took 0.298
+[2025.11.12-17.04.12:749][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.04.12:806][258]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.04.12:806][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.04.12:806][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.04.12:819][258]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.04.12:820][258]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default6F503DC84990F4CFEDE0B79F49B454A1.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.04.12:831][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.366 ms (total: 1.73 sec)
+[2025.11.12-17.04.12:889][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.04.12:889][258]LogContentValidation: Enabled validators:
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.04.12:889][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.04.12:889][258]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.04.14:567][322]LogSlate: Window 'IMC_Default' being destroyed
+[2025.11.12-17.04.14:574][322]LogSlate: Window 'IMC_Default' being destroyed
+[2025.11.12-17.04.30:906][942]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Move.IA_Move
+[2025.11.12-17.04.35:866][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.04.35:921][294]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Move] ([1] browsable assets)...
+[2025.11.12-17.04.35:921][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Move]
+[2025.11.12-17.04.35:921][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Move" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IA_Move.uasset" SILENT=true
+[2025.11.12-17.04.35:933][294]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Move
+[2025.11.12-17.04.35:933][294]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IA_Move7D53A8904576E584D9614B8F5B0E5B82.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IA_Move.uasset'
+[2025.11.12-17.04.35:943][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.943 ms (total: 1.80 sec)
+[2025.11.12-17.04.36:004][294]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.04.36:004][294]LogContentValidation: Enabled validators:
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.04.36:004][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.04.36:004][294]AssetCheck: /Game/Input/Actions/IA_Move Validating asset
+[2025.11.12-17.04.36:026][294]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.12-17.04.37:527][350]LogSlate: Window 'IA_Move' being destroyed
+[2025.11.12-17.04.37:559][350]LogSlate: Window 'IA_Move' being destroyed
+[2025.11.12-17.04.39:699][443]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/Actions/IMC_Default.IMC_Default
+[2025.11.12-17.06.24:131][634]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.12-17.07.17:509][521]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.07.17:563][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.07.17:563][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.07.17:563][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.07.17:575][521]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.07.17:576][521]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default489C79E548467248A2AA5AA39E9ACC3A.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.07.17:587][521]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.872 ms (total: 1.88 sec)
+[2025.11.12-17.07.17:644][521]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.07.17:644][521]LogContentValidation: Enabled validators:
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.07.17:644][521]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.07.17:644][521]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.07.17:644][521]AssetCheck: Error: [AssetLog] C:\Users\lukas\Documents\GitKraken\UnrealZajecia\CPP\Content\Input\Actions\IMC_Default.uasset: There cannot be a null Input Trigger on a key mapping
+[2025.11.12-17.07.27:026][ 17]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.07.27:041][ 17]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.07.45:344][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.07.45:395][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.07.45:396][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.07.45:396][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.07.45:407][736]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.07.45:407][736]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_DefaultF1591E5A49297FD3245CE99E96D46ADD.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.07.45:419][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.106 ms (total: 1.96 sec)
+[2025.11.12-17.07.45:478][736]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.07.45:478][736]LogContentValidation: Enabled validators:
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.07.45:479][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.07.45:479][736]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.07.59:619][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.07.59:680][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.07.59:680][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.07.59:680][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.07.59:694][301]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.07.59:695][301]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default5163F4084473C4409E5CE6AAC905FB42.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.07.59:706][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.326 ms (total: 2.04 sec)
+[2025.11.12-17.07.59:744][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.07.59:745][301]LogContentValidation: Enabled validators:
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.07.59:745][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.07.59:745][301]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.08.01:021][347]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.08.01:035][347]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.08.08:345][621]LogSlate: Window 'IMC_Default' being destroyed
+[2025.11.12-17.08.08:352][621]LogSlate: Window 'IMC_Default' being destroyed
+[2025.11.12-17.08.56:075][924]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/Actions/IMC_Default.IMC_Default
+[2025.11.12-17.08.58:120][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.08.58:183][976]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.08.58:183][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.08.58:183][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.08.58:188][976]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.08.58:189][976]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default45C66E33401C3CF8A50183996749BD93.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.08.58:198][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.354 ms (total: 2.12 sec)
+[2025.11.12-17.08.58:265][976]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.08.58:265][976]LogContentValidation: Enabled validators:
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.08.58:265][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.08.58:265][976]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.09.33:663][783]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3877.315674
+[2025.11.12-17.09.33:852][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-17.09.33:852][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3877.482422, Update Interval: 326.574921
+[2025.11.12-17.09.58:554][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.09.58:601][911]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.09.58:602][911]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.09.58:602][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.09.58:614][911]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.09.58:614][911]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default53C3476043E8B699ADC5DC995A7CD902.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.09.58:626][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.850 ms (total: 2.20 sec)
+[2025.11.12-17.09.58:683][911]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.09.58:683][911]LogContentValidation: Enabled validators:
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.09.58:683][911]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.09.58:683][911]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.10.01:860][ 43]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.10.01:874][ 43]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.10.12:052][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.10.12:102][469]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.10.12:102][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.10.12:102][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.10.12:117][469]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.10.12:118][469]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default728CAF134D301F9AE03879B2186B8A60.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.10.12:130][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.248 ms (total: 2.27 sec)
+[2025.11.12-17.10.12:167][469]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.10.12:167][469]LogContentValidation: Enabled validators:
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.10.12:167][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.10.12:167][469]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.10.15:670][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.10.15:734][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.10.15:734][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.10.15:734][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.10.15:739][598]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.10.15:739][598]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_DefaultC7D823D541EEB5AE83A4F286B4CF5F8C.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.10.15:751][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.319 ms (total: 2.35 sec)
+[2025.11.12-17.10.15:817][598]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.10.15:817][598]LogContentValidation: Enabled validators:
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.10.15:817][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.10.15:817][598]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.10.16:560][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.12-17.10.16:616][627]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IMC_Default] ([1] browsable assets)...
+[2025.11.12-17.10.16:617][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IMC_Default]
+[2025.11.12-17.10.16:617][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset" SILENT=true
+[2025.11.12-17.10.16:619][627]LogSavePackage: Moving output files for package: /Game/Input/Actions/IMC_Default
+[2025.11.12-17.10.16:620][627]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Saved/IMC_Default6ADCDD124C62469F30F099BDB755309E.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset'
+[2025.11.12-17.10.16:629][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.854 ms (total: 2.42 sec)
+[2025.11.12-17.10.16:681][627]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.12-17.10.16:681][627]LogContentValidation: Enabled validators:
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.12-17.10.16:681][627]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.12-17.10.16:682][627]AssetCheck: /Game/Input/Actions/IMC_Default Validating asset
+[2025.11.12-17.10.26:061][823]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_MouseLook.IA_MouseLook
+[2025.11.12-17.10.31:118][986]LogSlate: Window 'IA_MouseLook' being destroyed
+[2025.11.12-17.10.31:125][986]LogSlate: Window 'IA_MouseLook' being destroyed
+[2025.11.12-17.10.38:300][214]LogSlate: Window 'Content Browser' being destroyed
+[2025.11.12-17.10.38:307][214]LogSlate: Window 'Content Browser' being destroyed
+[2025.11.12-17.10.39:689][265]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.10.39:702][265]LogSlate: Window 'Message Log' being destroyed
+[2025.11.12-17.15.42:428][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4246.086914
+[2025.11.12-17.15.43:428][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-17.15.43:428][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4246.754395, Update Interval: 315.778687
+[2025.11.12-17.21.50:512][530]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4614.174316
+[2025.11.12-17.21.51:510][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.12-17.21.51:510][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4614.839355, Update Interval: 327.906128

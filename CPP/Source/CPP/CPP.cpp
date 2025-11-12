@@ -2,7 +2,6 @@
 
 #include "CPP.h"
 #include "Modules/ModuleManager.h"
-
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, CPP, "CPP" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, FCPP, "CPP");
 
 DEFINE_LOG_CATEGORY(LogCPP)

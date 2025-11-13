@@ -55,7 +55,10 @@
 			"CPPCharacter.cpp.obj",
 			"CPPGameMode.cpp.obj",
 			"CPPPlayerController.cpp.obj",
-			"AMasterGameMode.cpp.obj",
+			"ABaseCharacter.cpp.obj",
+			"ABaseEnemyCharacter.cpp.obj",
+			"ABasePlayerCharacter.cpp.obj",
+			"ABasePlayerController.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
 			"CombatEnemySpawner.cpp.obj",
@@ -93,10 +96,7 @@
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingPlayerController.cpp.obj",
 			"SideScrollingUI.cpp.obj",
-			"ABaseCharacter.cpp.obj",
-			"ABaseEnemyCharacter.cpp.obj",
-			"ABasePlayerCharacter.cpp.obj",
-			"ABasePlayerController.cpp.obj"
+			"AMasterGameMode.cpp.obj"
 		]
 	}
 }

@@ -5,20 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Pirate/Mesh_UE5/Full/SKM_Pirate_Full_01.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Urban_Nomad/Mesh/SKM_Urban_Nomad.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SKM_Pirate_Full_01.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/PA_Urban_Nomad.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/PA_Urban_Nomad.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/SKM_Pirate_Full_01.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sickle.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Axe.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Sickle.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Assts/SM_Axe.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Items/SM_Axe.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Items/SM_Sickle.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IMC_Default.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/Actions/IA_Move.uasset"
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABasePlayerController.uasset"
 			]
 		}
 	]

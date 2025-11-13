@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABasePlayerController.uasset"
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABasePlayerController.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/SKM_Pirate_Full_01.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Idle__2__Skeleton.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABasePlayerCharacter.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Idle__2_.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Idle__2__Anim.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Run.uasset"
 			]
 		}
 	]

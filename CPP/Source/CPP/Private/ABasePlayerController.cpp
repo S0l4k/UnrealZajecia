@@ -1,24 +1,28 @@
 #include "AABasePlayerController.h"
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
-#include "GameFramework/Character.h"
+#include "InputMappingContext.h"
+#include "InputAction.h"
+#include "AABasePlayerCharacter.h"
 
 void AABasePlayerController::BeginPlay()
 {
     Super::BeginPlay();
 
-    // Dodaj mapping context po starcie
-    if (UEnhancedInputLocalPlayerSubsystem* Subsystem =
-        ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(GetLocalPlayer()))
+    // Dodaj kontekst mappingu do LocalPlayerSubsystem
+    if (ULocalPlayer* LP = GetLocalPlayer())
     {
-        if (DefaultMappingContext)
+        if (UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(LP))
         {
-            Subsystem->AddMappingContext(DefaultMappingContext, 0);
+            if (DefaultMappingContext)
+            {
+                Subsystem->AddMappingContext(DefaultMappingContext, 0);
+            }
         }
     }
 }
 
-void ABasePlayerController::SetupInputComponent()
+void AABasePlayerController::SetupInputComponent()
 {
     Super::SetupInputComponent();
 
@@ -28,31 +32,35 @@ void ABasePlayerController::SetupInputComponent()
             EnhancedInput->BindAction(IA_Move, ETriggerEvent::Triggered, this, &AABasePlayerController::Move);
 
         if (IA_Attack)
-            EnhancedInput->BindAction(IA_Attack, ETriggerEvent::Triggered, this, &AABasePlayerController::Attack);
+            EnhancedInput->BindAction(IA_Attack, ETriggerEvent::Started, this, &AABasePlayerController::Attack);
 
         if (IA_Interact)
-            EnhancedInput->BindAction(IA_Interact, ETriggerEvent::Triggered, this, &AABasePlayerController::Interact);
+            EnhancedInput->BindAction(IA_Interact, ETriggerEvent::Started, this, &AABasePlayerController::Interact);
     }
 }
 
-void ABasePlayerController::Move(const FInputActionValue& Value)
+void AABasePlayerController::Move(const FInputActionValue& Value)
 {
-    FVector2D Movement = Value.Get<FVector2D>();
-
-    APawn* ControlledPawn = GetPawn();
-    if (ControlledPawn)
+    FVector2D MovementVector = Value.Get<FVector2D>();
+    if (AABasePlayerCharacter* PlayerChar = Cast<AABasePlayerCharacter>(GetPawn()))
     {
-        ControlledPawn->AddMovementInput(ControlledPawn->GetActorForwardVector(), Movement.Y);
-        ControlledPawn->AddMovementInput(ControlledPawn->GetActorRightVector(), Movement.X);
+        PlayerChar->Move(Value);
     }
 }
 
-void ABasePlayerController::Attack(const FInputActionValue& Value)
+void AABasePlayerController::Attack(const FInputActionValue& Value)
 {
-    UE_LOG(LogTemp, Warning, TEXT("Attack triggered!"));
+    if (AABasePlayerCharacter* PlayerChar = Cast<AABasePlayerCharacter>(GetPawn()))
+    {
+        PlayerChar->Attack(Value);
+    }
 }
 
-void ABasePlayerController::Interact(const FInputActionValue& Value)
+void AABasePlayerController::Interact(const FInputActionValue& Value)
 {
-    UE_LOG(LogTemp, Warning, TEXT("Interact triggered!"));
+    if (AABasePlayerCharacter* PlayerChar = Cast<AABasePlayerCharacter>(GetPawn()))
+    {
+        PlayerChar->Interact(Value);
+    }
 }
+

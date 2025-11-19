@@ -1,34 +1,27 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
-#include "ABaseCharacter.h"
-
-// Sets default values
-AABaseCharacter::AABaseCharacter()
+void ABasePlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
+    Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+    UEnhancedInputComponent* Input = CastChecked<UEnhancedInputComponent>(PlayerInputComponent);
+
+    Input->BindAction(MoveAction, ETriggerEvent::Triggered, this, &ABasePlayerCharacter::Move);
+    Input->BindAction(InteractAction, ETriggerEvent::Started, this, &ABasePlayerCharacter::Interact);
+    Input->BindAction(AttackAction, ETriggerEvent::Started, this, &ABasePlayerCharacter::Attack);
 }
 
-// Called when the game starts or when spawned
-void AABaseCharacter::BeginPlay()
+void ABasePlayerCharacter::Move(const FInputActionValue& Value)
 {
-	Super::BeginPlay();
-	
+    FVector2D Axis = Value.Get<FVector2D>();
+    AddMovementInput(GetActorForwardVector(), Axis.Y);
+    AddMovementInput(GetActorRightVector(), Axis.X);
 }
 
-// Called every frame
-void AABaseCharacter::Tick(float DeltaTime)
+void ABasePlayerCharacter::Interact(const FInputActionValue& Value)
 {
-	Super::Tick(DeltaTime);
-
+    UE_LOG(LogTemp, Warning, TEXT("Interact pressed"));
 }
 
-// Called to bind functionality to input
-void AABaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+void ABasePlayerCharacter::Attack(const FInputActionValue& Value)
 {
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
+    UE_LOG(LogTemp, Warning, TEXT("Attack pressed"));
 }
-

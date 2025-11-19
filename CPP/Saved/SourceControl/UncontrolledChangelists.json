@@ -11,7 +11,13 @@
 				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABasePlayerCharacter.uasset",
 				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Idle__2_.uasset",
 				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Idle__2__Anim.uasset",
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Run.uasset"
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Animations/Run.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/ABaseCharacter.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/IMC_Default.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Input/IMC_Default.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Characters/PlayerAnimBP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/CPP/Content/Bluepritns/Game/AMasterGameMode.uasset"
 			]
 		}
 	]

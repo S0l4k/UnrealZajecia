@@ -27,3 +27,18 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 };
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input")
+class UInputMappingContext* InputMapping;
+
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input")
+class UInputAction* MoveAction;
+
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input")
+class UInputAction* InteractAction;
+
+UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Input")
+class UInputAction* AttackAction;
+
+void Move(const FInputActionValue& Value);
+void Interact(const FInputActionValue& Value);
+void Attack(const FInputActionValue& Value);

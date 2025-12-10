@@ -16,10 +16,18 @@
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
+struct FInputActionValue;
+
 // ********** Begin Class ABasePlayerController ****************************************************
+#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execAttack); \
+	DECLARE_FUNCTION(execInteract); \
+	DECLARE_FUNCTION(execMove);
+
+
 MYPROJECT_API UClass* Z_Construct_UClass_ABasePlayerController_NoRegister();
 
-#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABasePlayerController(); \
 	friend struct Z_Construct_UClass_ABasePlayerController_Statics; \
@@ -30,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(ABasePlayerController)
 
 
-#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ABasePlayerController(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -42,12 +50,13 @@ public: \
 	NO_API virtual ~ABasePlayerController();
 
 
-#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_12_PROLOG
-#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_15_GENERATED_BODY \
+#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_16_PROLOG
+#define FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_MyProject_Source_MyProject_Public_BasePlayerController_h_15_INCLASS_NO_PURE_DECLS \
-	FID_MyProject_Source_MyProject_Public_BasePlayerController_h_15_ENHANCED_CONSTRUCTORS \
+	FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_INCLASS_NO_PURE_DECLS \
+	FID_MyProject_Source_MyProject_Public_BasePlayerController_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

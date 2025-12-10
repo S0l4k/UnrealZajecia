@@ -1,6 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\lukas\\Documents\\GitKraken\\UnrealZajecia\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\lukas\\Documents\\GitKraken\\UnrealZajecia\\MyProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"C:\\Users\\lukas\\Documents\\GitKraken\\UnrealZajecia\\MyProject\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
 		"C:\\Users\\lukas\\Documents\\GitKraken\\UnrealZajecia\\MyProject\\Source\\MyProject.Target.cs",
 		"C:\\Users\\lukas\\Documents\\GitKraken\\UnrealZajecia\\MyProject\\Source\\MyProjectEditor.Target.cs"
 	],

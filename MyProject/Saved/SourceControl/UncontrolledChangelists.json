@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/IMC_Default.uasset"
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/IMC_Default.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BaseCharacter_BP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BaseEnemyCharacter_BP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BasePlayerCharacter_BP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Game/BasePlayerController_BP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Game/MasterGameMode_BP.uasset",
+				"C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/PlayerAnimationBlueprint.uasset"
 			]
 		}
 	]

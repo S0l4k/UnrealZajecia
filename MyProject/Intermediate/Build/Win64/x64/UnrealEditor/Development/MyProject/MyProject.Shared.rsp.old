@@ -1,4 +1,5 @@
 /I "."
+/I "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Source/MyProject/Private"
 /I "../Intermediate/Build/Win64/UnrealEditor/Inc/Engine/UHT"
 /I "Runtime/Engine/Classes"
 /I "Runtime/Engine/Public"
@@ -301,6 +302,7 @@
 /I "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Source/MyProject/Variant_SideScrolling/Interfaces"
 /I "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Source/MyProject/Variant_SideScrolling/UI"
 /I "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Source"
+/I "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Source/MyProject/Public"
 /I "../Plugins/EnhancedInput/Intermediate/Build/Win64/UnrealEditor/Inc/EnhancedInput/UHT"
 /I "../Plugins/EnhancedInput/Source"
 /I "../Plugins/EnhancedInput/Source/EnhancedInput/Public"

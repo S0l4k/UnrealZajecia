@@ -1996,3 +1996,260 @@ Detoured run took 1.3s
 [2025.12.10-05.00.57:416][259]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/SourceControl/UncontrolledChangelists.json
 [2025.12.10-05.01.01:090][391]LogSlate: Window 'IMC_Default' being destroyed
 [2025.12.10-05.01.01:097][391]LogSlate: Window 'IMC_Default' being destroyed
+[2025.12.10-05.01.41:614][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.10-05.01.41:617][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.185
+[2025.12.10-05.01.41:621][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BaseCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.01.41:621][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BaseCharacter_BP]
+[2025.12.10-05.01.41:857][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C'
+[2025.12.10-05.01.41:867][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C'
+[2025.12.10-05.01.41:888][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BaseCharacter_BP_Auto1
+[2025.12.10-05.01.41:888][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BaseCharacter_BP_Auto13B5D015D47D662574E6A83A09AB5F207.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Characters/BaseCharacter_BP_Auto1.uasset'
+[2025.12.10-05.01.41:889][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BasePlayerCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.01.41:889][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BasePlayerCharacter_BP]
+[2025.12.10-05.01.41:896][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C' for saving '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C'
+[2025.12.10-05.01.41:896][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C' for saving '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C'
+[2025.12.10-05.01.41:905][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BasePlayerCharacter_BP_Auto1
+[2025.12.10-05.01.41:905][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerCharacter_BP_Auto1A4BA16154A446A3F1FCBD79AC89C1758.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Characters/BasePlayerCharacter_BP_Auto1.uasset'
+[2025.12.10-05.01.41:906][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BaseEnemyCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.01.41:906][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BaseEnemyCharacter_BP]
+[2025.12.10-05.01.41:910][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C'
+[2025.12.10-05.01.41:911][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C'
+[2025.12.10-05.01.41:921][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BaseEnemyCharacter_BP_Auto1
+[2025.12.10-05.01.41:921][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BaseEnemyCharacter_BP_Auto11A097C8248DA3D0E9DDCD5AE9DD9F2F9.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Characters/BaseEnemyCharacter_BP_Auto1.uasset'
+[2025.12.10-05.01.41:923][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/MasterGameMode_BP] ([2] browsable assets)...
+[2025.12.10-05.01.41:923][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/MasterGameMode_BP]
+[2025.12.10-05.01.41:926][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C' for saving '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C'
+[2025.12.10-05.01.41:926][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C' for saving '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C'
+[2025.12.10-05.01.41:935][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Game/MasterGameMode_BP_Auto1
+[2025.12.10-05.01.41:935][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/MasterGameMode_BP_Auto1E4E7B2F642CB2CF4ACB2929E70B51EF5.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Game/MasterGameMode_BP_Auto1.uasset'
+[2025.12.10-05.01.41:937][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BasePlayerController_BP] ([2] browsable assets)...
+[2025.12.10-05.01.41:937][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BasePlayerController_BP]
+[2025.12.10-05.01.41:949][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.01.41:949][611]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.01.41:959][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto1
+[2025.12.10-05.01.41:959][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerController_BP_Auto1D2DB2C7B44CCAC03302AD7B14DF8E337.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto1.uasset'
+[2025.12.10-05.01.41:960][611]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/PlayerAnimationBlueprint] ([2] browsable assets)...
+[2025.12.10-05.01.42:235][611]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/PlayerAnimationBlueprint.PlayerAnimationBlueprint]
+[2025.12.10-05.01.42:235][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/PlayerAnimationBlueprint]
+[2025.12.10-05.01.42:307][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/PlayerAnimationBlueprint_Auto1
+[2025.12.10-05.01.42:307][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/PlayerAnimationBlueprint_Auto11318A5394B3FAEA07B93C093579E0C14.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Characters/PlayerAnimationBlueprint_Auto1.uasset'
+[2025.12.10-05.01.42:316][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2025.12.10-05.01.42:316][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2025.12.10-05.01.42:327][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Attack_Auto1
+[2025.12.10-05.01.42:327][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/IA_Attack_Auto11211CE12413467038ED31F8F7749EA1D.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Input/Actions/IA_Attack_Auto1.uasset'
+[2025.12.10-05.01.42:328][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2025.12.10-05.01.42:328][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2025.12.10-05.01.42:340][611]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_Interact_Auto1
+[2025.12.10-05.01.42:340][611]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/IA_Interact_Auto16B0ADED94BE2EBEFF330EBBA534445D7.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Input/Actions/IA_Interact_Auto1.uasset'
+[2025.12.10-05.01.42:340][611]LogFileHelpers: Auto-saving content packages took 0.723
+[2025.12.10-05.02.35:211][964]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.02.35:938][964]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.12.10-05.02.41:797][964]LogStreaming: Display: FlushAsyncLoading(398): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 4.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 1.7 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 1.2 seconds loading: /Engine/EditorBlueprintResources/StandardMacros
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 0.9 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/EditorBlueprintResources/ActorComponentMacros
+[2025.12.10-05.02.46:190][964]LogBlueprintEditor: Perf: 0.3 seconds loading: /Engine/EditorBlueprintResources/ActorMacros
+[2025.12.10-05.03.30:285][964]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2025.12.10-05.05.06:931][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8598.291992
+[2025.12.10-05.05.07:928][210]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.05.07:928][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8598.957031, Update Interval: 308.007446
+[2025.12.10-05.07.07:144][877]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.07.07:152][877]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.07.07:731][877]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.07.07:949][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.07.10:468][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.12.10-05.07.12:645][965]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.12.10-05.07.23:973][357]LogSlate: Window 'IMC_Default' being destroyed
+[2025.12.10-05.07.23:980][357]LogSlate: Window 'IMC_Default' being destroyed
+[2025.12.10-05.09.10:357][926]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.09.10:373][926]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.12.10-05.11.08:227][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8959.567383
+[2025.12.10-05.11.08:419][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.11.08:419][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8959.730469, Update Interval: 324.139526
+[2025.12.10-05.11.36:674][682]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.11.36:681][682]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.11.36:685][682]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.11.36:685][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.11.37:370][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.12.10-05.11.38:819][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.11.38:821][751]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.12.10-05.11.45:461][979]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.11.45:475][979]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.11.45:475][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.11.45:510][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.11.45:510][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.10-05.11.46:851][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.12.10-05.12.39:170][ 38]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 174...85c
+[2025.12.10-05.12.39:170][ 38]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.12.10-05.12.39:426][ 44]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 174...85c Access[Expires: 2025.12.10-07.12.42 Remaining: 7200.26] Refresh[Expires: 2026-06-08T03:12:27.078Z Remaining: 15544785.08] State: Valid
+[2025.12.10-05.14.08:092][666]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.14.08:099][666]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.14.08:103][666]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.14.08:103][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.14.08:192][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.12.10-05.14.41:817][768]LogSlate: Window 'Plugins' being destroyed
+[2025.12.10-05.14.41:824][768]LogSlate: Window 'Plugins' being destroyed
+[2025.12.10-05.14.44:965][908]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-05.15.43:263][948]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-05.15.43:273][948]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-05.15.52:176][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.15.52:176][293]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.10-05.17.07:542][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.12.10-05.17.07:544][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.605
+[2025.12.10-05.17.07:546][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BasePlayerController_BP] ([2] browsable assets)...
+[2025.12.10-05.17.07:548][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BasePlayerController_BP]
+[2025.12.10-05.17.07:585][ 16]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.17.07:585][ 16]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.17.07:596][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto2
+[2025.12.10-05.17.07:596][ 16]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerController_BP_Auto203463F32417C95AC870D39BE1BEEEE7B.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto2.uasset'
+[2025.12.10-05.17.07:597][ 16]LogFileHelpers: Auto-saving content packages took 0.051
+[2025.12.10-05.17.29:735][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9341.086914
+[2025.12.10-05.17.30:736][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.17.30:736][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9341.758789, Update Interval: 348.857697
+[2025.12.10-05.24.08:098][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9739.449219
+[2025.12.10-05.24.09:099][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.24.09:099][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9740.117188, Update Interval: 318.897064
+[2025.12.10-05.26.28:018][900]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.042 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-05.30.20:880][598]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10112.240234
+[2025.12.10-05.30.21:881][601]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.30.21:881][601]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10112.906250, Update Interval: 353.724792
+[2025.12.10-05.37.11:476][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10522.827148
+[2025.12.10-05.37.12:479][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-05.37.12:480][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10523.493164, Update Interval: 351.388275
+[2025.12.10-05.40.55:158][683]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.40.55:166][683]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.40.55:213][683]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.40.55:213][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.40.55:317][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.12.10-05.40.58:774][875]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-05.40.59:139][875]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-05.40.59:139][875]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-05.41.05:985][875]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-05.41.06:589][875]
+[2025.12.10-05.41.06:589][875]Generating VisualStudio project files:
+[2025.12.10-05.41.06:589][875]Discovering modules, targets and source code for project...
+[2025.12.10-05.41.08:099][875]Adding projects for all targets...
+[2025.12.10-05.41.13:735][875]Adding projects for all targets took 5.66s
+[2025.12.10-05.41.13:735][875]Adding projects for all game projects took 0.00s
+[2025.12.10-05.41.14:540][875]Adding projects for all modules took 0.82s
+[2025.12.10-05.41.16:267][875]Compiling Rules Assemblies
+[2025.12.10-05.41.16:268][875]Compiling Rules Assemblies 100%
+[2025.12.10-05.41.16:268][875]Creating Build Targets
+[2025.12.10-05.41.20:106][875]Creating Build Targets 100%
+[2025.12.10-05.41.20:106][875]Creating Build Targets took 3.80s
+[2025.12.10-05.41.20:106][875]Binding IntelliSense data...
+[2025.12.10-05.41.35:037][875]Binding IntelliSense data... 1%
+[2025.12.10-05.41.45:448][875]Binding IntelliSense data... 53%
+[2025.12.10-05.41.49:625][875]Binding IntelliSense data... 100%
+[2025.12.10-05.41.49:625][875]Binding IntelliSense data took 29.51s
+[2025.12.10-05.41.49:625][875]Writing project files...
+[2025.12.10-05.41.56:272][875]Writing project files... 100%
+[2025.12.10-05.41.56:272][875]Writing project files took 6.66s
+[2025.12.10-05.41.56:272][875]
+[2025.12.10-05.41.56:272][875]Generating QueryTargets data for editor...
+[2025.12.10-05.41.56:272][875]Compiling Rules Assemblies
+[2025.12.10-05.41.56:272][875]Compiling Rules Assemblies 100%
+[2025.12.10-05.41.56:272][875]Writing Query Target Info
+[2025.12.10-05.41.56:272][875]Writing Query Target Info 100%
+[2025.12.10-05.41.56:272][875]Generating QueryTargets data for editor took 0.04s
+[2025.12.10-05.41.56:272][875]
+[2025.12.10-05.41.56:272][875]Result: Succeeded
+[2025.12.10-05.41.56:272][875]Total execution time: 54.15 seconds
+[2025.12.10-05.41.59:883][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2025.12.10-05.41.59:886][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.042
+[2025.12.10-05.41.59:886][982]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BasePlayerController_BP] ([2] browsable assets)...
+[2025.12.10-05.41.59:886][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BasePlayerController_BP]
+[2025.12.10-05.41.59:964][982]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.41.59:964][982]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.41.59:974][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto3
+[2025.12.10-05.41.59:974][982]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerController_BP_Auto31CA9ACB146FEA8CF1409FD8DF09DA274.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Autosaves/Game/Blueprints/Game/BasePlayerController_BP_Auto3.uasset'
+[2025.12.10-05.41.59:976][982]LogFileHelpers: Auto-saving content packages took 0.090
+[2025.12.10-05.42.15:089][564]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP
+[2025.12.10-05.42.15:090][564]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.10-05.42.31:036][297]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.42.31:044][297]LogSlate: Window 'BasePlayerController_BP' being destroyed
+[2025.12.10-05.42.31:047][297]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.42.31:047][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.42.31:158][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.12.10-05.42.37:977][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.12.10-05.42.40:806][380]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-05.42.40:930][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-05.42.41:024][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BaseCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.42.41:024][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BaseCharacter_BP]
+[2025.12.10-05.42.41:154][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C'
+[2025.12.10-05.42.41:155][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseCharacter_BP.BaseCharacter_BP_C'
+[2025.12.10-05.42.41:183][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BaseCharacter_BP
+[2025.12.10-05.42.41:183][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BaseCharacter_BP291565A64A57383362CAF6A2716C3FF7.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BaseCharacter_BP.uasset'
+[2025.12.10-05.42.42:191][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BaseEnemyCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.42.42:191][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BaseEnemyCharacter_BP]
+[2025.12.10-05.42.42:197][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C'
+[2025.12.10-05.42.42:197][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C' for saving '/Game/Blueprints/Characters/BaseEnemyCharacter_BP.BaseEnemyCharacter_BP_C'
+[2025.12.10-05.42.42:209][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BaseEnemyCharacter_BP
+[2025.12.10-05.42.42:209][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BaseEnemyCharacter_BPF53E167745667ECF2105438B4D36726E.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BaseEnemyCharacter_BP.uasset'
+[2025.12.10-05.42.42:214][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BasePlayerCharacter_BP] ([2] browsable assets)...
+[2025.12.10-05.42.42:214][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BasePlayerCharacter_BP]
+[2025.12.10-05.42.42:218][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C' for saving '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C'
+[2025.12.10-05.42.42:218][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C' for saving '/Game/Blueprints/Characters/BasePlayerCharacter_BP.BasePlayerCharacter_BP_C'
+[2025.12.10-05.42.42:226][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BasePlayerCharacter_BP
+[2025.12.10-05.42.42:226][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerCharacter_BP8C1458AA4D2D97C05D8476A41CD34703.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/BasePlayerCharacter_BP.uasset'
+[2025.12.10-05.42.42:231][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/BasePlayerController_BP] ([2] browsable assets)...
+[2025.12.10-05.42.42:231][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/BasePlayerController_BP]
+[2025.12.10-05.42.42:233][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.42.42:233][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C' for saving '/Game/Blueprints/Game/BasePlayerController_BP.BasePlayerController_BP_C'
+[2025.12.10-05.42.42:242][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/BasePlayerController_BP
+[2025.12.10-05.42.42:242][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/BasePlayerController_BPF7E1C77743606F3503DF9E9783418D2E.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Game/BasePlayerController_BP.uasset'
+[2025.12.10-05.42.42:248][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2025.12.10-05.42.42:248][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Attack]
+[2025.12.10-05.42.42:248][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Attack" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Attack.uasset" SILENT=true
+[2025.12.10-05.42.42:297][380]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Attack
+[2025.12.10-05.42.42:297][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/IA_AttackC2AE9C6A44744EB8D30FF1825D1E41A7.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Attack.uasset'
+[2025.12.10-05.42.42:300][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2025.12.10-05.42.42:300][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2025.12.10-05.42.42:300][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Interact" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Interact.uasset" SILENT=true
+[2025.12.10-05.42.42:313][380]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Interact
+[2025.12.10-05.42.42:313][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/IA_Interact2B2ACD4946E71558EBBBB089835D439D.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/Actions/IA_Interact.uasset'
+[2025.12.10-05.42.42:330][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Game/MasterGameMode_BP] ([2] browsable assets)...
+[2025.12.10-05.42.42:330][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Game/MasterGameMode_BP]
+[2025.12.10-05.42.42:330][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/MasterGameMode_BP" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Game/MasterGameMode_BP.uasset" SILENT=true
+[2025.12.10-05.42.42:373][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C' for saving '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C'
+[2025.12.10-05.42.42:374][380]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C' for saving '/Game/Blueprints/Game/MasterGameMode_BP.MasterGameMode_BP_C'
+[2025.12.10-05.42.42:386][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Game/MasterGameMode_BP
+[2025.12.10-05.42.42:386][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/MasterGameMode_BP9C0A6A2C460939163A90E7AA94FB8B90.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Game/MasterGameMode_BP.uasset'
+[2025.12.10-05.42.42:574][380]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/PlayerAnimationBlueprint] ([2] browsable assets)...
+[2025.12.10-05.42.42:585][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/PlayerAnimationBlueprint]
+[2025.12.10-05.42.42:864][380]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/PlayerAnimationBlueprint
+[2025.12.10-05.42.42:865][380]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/PlayerAnimationBlueprintFA7CBAC544E33A4AF62E9F8D9B369C36.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Blueprints/Characters/PlayerAnimationBlueprint.uasset'
+[2025.12.10-05.42.43:026][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.09 sec (total: 2.58 sec)
+[2025.12.10-05.42.43:331][380]LogStall: Shutdown...
+[2025.12.10-05.42.43:340][380]LogStall: Shutdown complete.
+[2025.12.10-05.42.43:722][380]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.12.10-05.42.45:389][380]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.10-05.42.45:389][380]LogContentValidation: Enabled validators:
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-05.42.45:389][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-05.42.45:554][380]AssetCheck: /Game/Blueprints/Characters/BaseCharacter_BP Validating asset
+[2025.12.10-05.42.45:555][380]AssetCheck: /Game/Blueprints/Characters/BaseEnemyCharacter_BP Validating asset
+[2025.12.10-05.42.45:555][380]AssetCheck: /Game/Blueprints/Characters/BasePlayerCharacter_BP Validating asset
+[2025.12.10-05.42.45:555][380]AssetCheck: /Game/Blueprints/Game/BasePlayerController_BP Validating asset
+[2025.12.10-05.42.45:592][380]AssetCheck: /Game/Input/Actions/IA_Attack Validating asset
+[2025.12.10-05.42.45:592][380]AssetCheck: /Game/Input/Actions/IA_Interact Validating asset
+[2025.12.10-05.42.45:592][380]AssetCheck: /Game/Blueprints/Game/MasterGameMode_BP Validating asset
+[2025.12.10-05.42.45:592][380]AssetCheck: /Game/Blueprints/Characters/PlayerAnimationBlueprint Validating asset
+[2025.12.10-05.42.45:884][380]Cmd: QUIT_EDITOR
+[2025.12.10-05.42.45:898][380]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.10-05.42.45:919][380]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-05.42.46:195][381]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.10-05.42.46:371][381]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.10-05.42.46:389][381]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.10-05.42.47:113][381]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-05.42.47:227][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-05.42.47:254][381]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.12.10-05.42.49:091][381]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.10-05.42.49:258][381]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.10-05.42.49:619][381]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.

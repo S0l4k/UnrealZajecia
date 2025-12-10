@@ -6,6 +6,7 @@
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/BaseCharacter.gen.cpp"
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/BaseEnemyCharacter.gen.cpp"
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/BasePlayerCharacter.gen.cpp"
+#include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/BasePlayerController.gen.cpp"
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/CombatActivatable.gen.cpp"
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/CombatActivationVolume.gen.cpp"
 #include "C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Intermediate/Build/Win64/UnrealEditor/Inc/MyProject/UHT/CombatAIController.gen.cpp"

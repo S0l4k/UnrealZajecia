@@ -50,7 +50,6 @@
 			"SideScrollingSoftPlatform.gen.cpp.obj",
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
-			"PerModuleInline.gen.cpp.obj",
 			"MyProject.cpp.obj",
 			"MyProjectCharacter.cpp.obj",
 			"MyProjectGameMode.cpp.obj",
@@ -58,6 +57,7 @@
 			"BaseCharacter.cpp.obj",
 			"BaseEnemyCharacter.cpp.obj",
 			"BasePlayerCharacter.cpp.obj",
+			"BasePlayerController.cpp.obj",
 			"MasterGameMode.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
@@ -81,7 +81,7 @@
 			"CombatLifeBar.cpp.obj",
 			"AnimNotify_EndDash.cpp.obj",
 			"PlatformingCharacter.cpp.obj",
-			"BasePlayerController.cpp.obj"
+			"PerModuleInline.gen.cpp.obj"
 		],
 		"Module.MyProject.3.cpp.obj": [
 			"PlatformingGameMode.cpp.obj",

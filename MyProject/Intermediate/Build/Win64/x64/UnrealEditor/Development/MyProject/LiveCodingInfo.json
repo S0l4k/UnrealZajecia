@@ -9,6 +9,7 @@
 			"BaseCharacter.gen.cpp.obj",
 			"BaseEnemyCharacter.gen.cpp.obj",
 			"BasePlayerCharacter.gen.cpp.obj",
+			"BasePlayerController.gen.cpp.obj",
 			"CombatActivatable.gen.cpp.obj",
 			"CombatActivationVolume.gen.cpp.obj",
 			"CombatAIController.gen.cpp.obj",
@@ -24,12 +25,12 @@
 			"CombatLavaFloor.gen.cpp.obj",
 			"CombatLifeBar.gen.cpp.obj",
 			"CombatPlayerController.gen.cpp.obj",
-			"CombatStateTreeUtility.gen.cpp.obj",
-			"BasePlayerController.gen.cpp.obj"
+			"CombatStateTreeUtility.gen.cpp.obj"
 		],
 		"Module.MyProject.2.cpp.obj": [
 			"EnvQueryContext_Player.gen.cpp.obj",
 			"MasterGameMode.gen.cpp.obj",
+			"MyProject.init.gen.cpp.obj",
 			"MyProjectCharacter.gen.cpp.obj",
 			"MyProjectGameMode.gen.cpp.obj",
 			"MyProjectPlayerController.gen.cpp.obj",
@@ -57,6 +58,7 @@
 			"BaseCharacter.cpp.obj",
 			"BaseEnemyCharacter.cpp.obj",
 			"BasePlayerCharacter.cpp.obj",
+			"BasePlayerController.cpp.obj",
 			"MasterGameMode.cpp.obj",
 			"CombatAIController.cpp.obj",
 			"CombatEnemy.cpp.obj",
@@ -79,9 +81,7 @@
 			"CombatDamageable.cpp.obj",
 			"CombatLifeBar.cpp.obj",
 			"AnimNotify_EndDash.cpp.obj",
-			"PlatformingCharacter.cpp.obj",
-			"MyProject.init.gen.cpp.obj",
-			"BasePlayerController.cpp.obj"
+			"PlatformingCharacter.cpp.obj"
 		],
 		"Module.MyProject.3.cpp.obj": [
 			"PlatformingGameMode.cpp.obj",

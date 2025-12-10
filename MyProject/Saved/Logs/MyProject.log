@@ -1486,3 +1486,513 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-03.04.55:399][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2025.12.10-03.04.55:399][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1386.301025, Update Interval: 315.364838
 [2025.12.10-03.05.28:765][904]LogSourceControl: Uncontrolled asset discovery finished in 72.283234 seconds (Found 8086 uncontrolled assets)
+[2025.12.10-03.07.55:706][664]LogSlate: Took 0.670283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.12.10-03.08.45:124][988]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-03.08.45:165][988]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-03.08.45:182][989]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-03.08.50:968][208]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.12.10-03.08.50:968][208]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-03.09.09:256][806]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-03.09.09:267][806]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-03.09.09:339][808]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-03.09.11:618][900]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2025.12.10-03.09.11:619][900]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-03.09.20:565][ 32]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-03.09.20:575][ 32]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-03.09.20:591][ 33]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-03.09.21:938][ 87]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2025.12.10-03.09.21:939][ 87]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-03.09.28:431][240]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-03.09.28:441][240]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-03.09.28:455][241]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-03.09.30:434][320]LogContentBrowser: Attempting asset rename: NewFolder -> items
+[2025.12.10-03.09.30:435][320]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-03.09.46:846][712]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-03.09.46:860][712]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-03.09.46:875][713]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-03.09.48:497][778]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2025.12.10-03.09.48:497][778]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-03.09.52:833][918]LogFab: Display: Logging in using persist
+[2025.12.10-03.10.20:598][918]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from E:/UnrealEngine/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.12.10-03.10.26:838][918]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.12.10-03.12.24:611][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1836.066895
+[2025.12.10-03.12.26:039][920]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 174...85c Access[Expires: 2025.12.10-05.12.27 Remaining: 7200.08] Refresh[Expires: 2026-06-08T03:12:27.078Z Remaining: 15552000.08] State: Valid
+[2025.12.10-03.12.26:520][921]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.12.10-03.12.26:524][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.12.26:524][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1837.333008, Update Interval: 353.049103
+[2025.12.10-03.12.28:515][925]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.12.10-03.12.28:610][925]LogFab: Display: User logged in
+[2025.12.10-03.12.28:723][925]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.12.10-03.12.30:018][927]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-OVKdw2m5n0m_nLzz4Kll6w-k4nBvHp580-AYJ9wiGz7wQ]
+[2025.12.10-03.13.40:725][310]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-03.13.40:732][310]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-03.13.42:311][384]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.12.10-03.13.42:311][384]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.12.10-03.13.43:318][425]LogFab: Display: Logging in using persist
+[2025.12.10-03.13.43:662][427]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 174...85c Access[Expires: 2025.12.10-05.13.46 Remaining: 7200.23] Refresh[Expires: 2026-06-08T03:12:27.078Z Remaining: 15551921.08] State: Valid
+[2025.12.10-03.13.43:684][428]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.12.10-03.13.43:904][437]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.12.10-03.13.43:905][437]LogFab: Display: User logged in
+[2025.12.10-03.13.43:905][437]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.12.10-03.14.07:211][316]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-03.14.07:219][316]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-03.14.09:048][357]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.12.10-03.14.09:048][357]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/.
+[2025.12.10-03.14.18:635][870]LogFab: Display: Logging in using persist
+[2025.12.10-03.14.18:848][876]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 174...85c Access[Expires: 2025.12.10-05.14.21 Remaining: 7200.50] Refresh[Expires: 2026-06-08T03:12:27.078Z Remaining: 15551886.08] State: Valid
+[2025.12.10-03.14.18:871][877]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.12.10-03.14.19:077][886]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.12.10-03.14.19:077][886]LogFab: Display: User logged in
+[2025.12.10-03.14.19:077][886]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.12.10-03.18.21:653][795]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2193.107422
+[2025.12.10-03.18.22:653][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.18.22:653][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2193.775635, Update Interval: 331.764282
+[2025.12.10-03.24.00:079][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2531.531738
+[2025.12.10-03.24.01:078][813]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.24.01:079][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2532.198730, Update Interval: 344.774323
+[2025.12.10-03.26.28:080][254]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.107 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-03.29.59:149][887]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2890.599365
+[2025.12.10-03.30.00:149][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.30.00:149][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2891.266113, Update Interval: 338.187805
+[2025.12.10-03.35.55:887][957]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3247.333740
+[2025.12.10-03.35.56:888][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.35.56:888][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3248.001709, Update Interval: 322.978607
+[2025.12.10-03.42.18:936][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3630.379395
+[2025.12.10-03.42.19:937][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.42.19:937][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3631.045654, Update Interval: 316.674103
+[2025.12.10-03.48.16:030][177]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3987.471191
+[2025.12.10-03.48.17:030][180]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.48.17:030][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3988.138916, Update Interval: 300.906403
+[2025.12.10-03.51.34:569][ 14]LogFab: Display: Asset Type = unreal-engine
+[2025.12.10-03.51.34:569][ 14]LogFab: Display: Is Quixel = 0
+[2025.12.10-03.51.34:569][ 14]LogFab: Display: Base Url https://fastly-download.epicgames.com/Builds/Rocket/Automated/ModernWo976df3fbb4e9V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/ModernWo976df3fbb4e9V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/ModernWo976df3fbb4e9V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/ModernWo976df3fbb4e9V1/CloudDir
+[2025.12.10-03.51.36:007][ 42]LogFab: Display: Asset Type = unreal-engine
+[2025.12.10-03.51.36:007][ 42]LogFab: Display: Is Quixel = 0
+[2025.12.10-03.51.36:007][ 42]LogFab: Display: Base Url https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/UrbanNomdbc4cab2fdf1V2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/UrbanNomdbc4cab2fdf1V2/CloudDir,https://fastly-download.epicgames.com/Builds/Rocket/Automated/UrbanNomdbc4cab2fdf1V2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/UrbanNomdbc4cab2fdf1V2/CloudDir
+[2025.12.10-03.51.41:338][234]LogFab: Display: Asset Type = unreal-engine
+[2025.12.10-03.51.41:338][234]LogFab: Display: Is Quixel = 0
+[2025.12.10-03.51.41:338][234]LogFab: Display: Base Url https://fastly-download.epicgames.com/Builds/Rocket/Automated/FreeFantd64e30482a30V2/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/FreeFantd64e30482a30V2/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/FreeFantd64e30482a30V2/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/FreeFantd64e30482a30V2/CloudDir
+[2025.12.10-03.51.47:400][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-03.51.47:401][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-03.51.47:401][301]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Developers/lukas/Collections/' because it could not be accessed. Aborting watch request...
+[2025.12.10-03.54.17:269][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4348.711426
+[2025.12.10-03.54.18:268][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-03.54.18:268][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4349.378418, Update Interval: 315.139618
+[2025.12.10-04.00.18:664][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4710.102051
+[2025.12.10-04.00.19:661][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.00.19:661][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4710.766602, Update Interval: 321.786560
+[2025.12.10-04.06.19:072][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5070.512695
+[2025.12.10-04.06.19:251][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.06.19:251][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5070.665527, Update Interval: 311.534180
+[2025.12.10-04.08.55:945][875]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-04.08.55:954][875]LogSlate: Window 'Fab' being destroyed
+[2025.12.10-04.08.57:446][935]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.12.10-04.08.57:446][935]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/library.
+[2025.12.10-04.09.14:096][242]LogSlate: Took 0.042585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.10-04.09.16:005][302]LogSlate: Took 0.032306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.12.10-04.09.58:941][335]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.09.59:352][335]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-04.09.59:453][335]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.10.18:479][335]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-04.10.19:386][335]
+[2025.12.10-04.10.19:386][335]Generating VisualStudio project files:
+[2025.12.10-04.10.19:386][335]Discovering modules, targets and source code for project...
+[2025.12.10-04.10.21:097][335]Adding projects for all targets...
+[2025.12.10-04.10.35:090][335]Adding projects for all targets took 13.97s
+[2025.12.10-04.10.35:191][335]Adding projects for all game projects took 0.01s
+[2025.12.10-04.10.36:299][335]Adding projects for all modules took 1.10s
+[2025.12.10-04.10.39:922][335]Compiling Rules Assemblies
+[2025.12.10-04.10.39:923][335]Compiling Rules Assemblies 100%
+[2025.12.10-04.10.39:923][335]Creating Build Targets
+[2025.12.10-04.10.49:993][335]Creating Build Targets 100%
+[2025.12.10-04.10.49:993][335]Creating Build Targets took 9.99s
+[2025.12.10-04.10.49:993][335]Binding IntelliSense data...
+[2025.12.10-04.11.21:605][335]Binding IntelliSense data... 1%
+[2025.12.10-04.11.32:005][335]Binding IntelliSense data... 42%
+[2025.12.10-04.11.39:482][335]Binding IntelliSense data... 100%
+[2025.12.10-04.11.39:482][335]Binding IntelliSense data took 49.53s
+[2025.12.10-04.11.39:583][335]Writing project files...
+[2025.12.10-04.11.47:840][335]Writing project files... 100%
+[2025.12.10-04.11.47:942][335]Writing project files took 8.47s
+[2025.12.10-04.11.47:942][335]
+[2025.12.10-04.11.47:942][335]Generating QueryTargets data for editor...
+[2025.12.10-04.11.47:942][335]Compiling Rules Assemblies
+[2025.12.10-04.11.47:942][335]Compiling Rules Assemblies 100%
+[2025.12.10-04.11.47:942][335]Writing Query Target Info
+[2025.12.10-04.11.48:043][335]Writing Query Target Info 100%
+[2025.12.10-04.11.48:043][335]Generating QueryTargets data for editor took 0.09s
+[2025.12.10-04.11.48:144][335]
+[2025.12.10-04.11.48:144][335]Result: Succeeded
+[2025.12.10-04.11.48:144][335]Total execution time: 102.53 seconds
+[2025.12.10-04.11.48:732][335]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.10-04.11.49:186][335]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.12.10-04.12.39:185][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5450.613770
+[2025.12.10-04.12.39:383][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.12.39:383][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5450.786621, Update Interval: 330.372620
+[2025.12.10-04.19.03:515][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5834.921387
+[2025.12.10-04.19.03:728][666]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.19.03:728][666]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5835.106934, Update Interval: 316.088135
+[2025.12.10-04.20.21:374][145]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug8d1de166-0a97-40f4-a4d8-d4cec88dac45 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\lukas\AppData\Local\Temp\B83F.tmp
+   Trwa tworzenie biblioteki C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.lib i obiektu C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_0.exp
+Detoured run took 1.5s
+[2025.12.10-04.20.27:280][145]LogClass: UPackage /Script/MyProject Reload.
+[2025.12.10-04.20.27:781][145]LogClass: Could not find existing class MasterGameMode in package /Script/MyProject for reload, assuming new or modified class
+[2025.12.10-04.20.44:881][145]LogUObjectHash: Compacting FUObjectHashTables data took  29.10ms
+[2025.12.10-04.20.45:805][145]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 38 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2025.12.10-04.20.45:828][145]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.10-04.21.18:145][259]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.21.18:349][259]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-04.21.18:349][259]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.21.24:190][259]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-04.21.26:303][259]
+[2025.12.10-04.21.26:303][259]Generating VisualStudio project files:
+[2025.12.10-04.21.26:404][259]Discovering modules, targets and source code for project...
+[2025.12.10-04.21.36:268][259]Adding projects for all targets...
+[2025.12.10-04.22.05:458][259]Adding projects for all targets took 29.17s
+[2025.12.10-04.22.05:458][259]Adding projects for all game projects took 0.00s
+[2025.12.10-04.22.06:867][259]Adding projects for all modules took 1.13s
+[2025.12.10-04.22.09:484][259]Compiling Rules Assemblies
+[2025.12.10-04.22.09:485][259]Compiling Rules Assemblies 100%
+[2025.12.10-04.22.09:485][259]Creating Build Targets
+[2025.12.10-04.22.21:064][259]Creating Build Targets 100%
+[2025.12.10-04.22.21:064][259]Creating Build Targets took 11.65s
+[2025.12.10-04.22.21:065][259]Binding IntelliSense data...
+[2025.12.10-04.22.31:451][259]Binding IntelliSense data... 30%
+[2025.12.10-04.22.33:768][259]Binding IntelliSense data... 100%
+[2025.12.10-04.22.33:768][259]Binding IntelliSense data took 12.61s
+[2025.12.10-04.22.33:768][259]Writing project files...
+[2025.12.10-04.22.36:590][259]Writing project files... 100%
+[2025.12.10-04.22.36:590][259]Writing project files took 2.88s
+[2025.12.10-04.22.36:590][259]
+[2025.12.10-04.22.36:590][259]Generating QueryTargets data for editor...
+[2025.12.10-04.22.36:590][259]Compiling Rules Assemblies
+[2025.12.10-04.22.36:590][259]Compiling Rules Assemblies 100%
+[2025.12.10-04.22.36:590][259]Writing Query Target Info
+[2025.12.10-04.22.36:690][259]Writing Query Target Info 100%
+[2025.12.10-04.22.36:690][259]Generating QueryTargets data for editor took 0.10s
+[2025.12.10-04.22.36:690][259]
+[2025.12.10-04.22.36:690][259]Result: Succeeded
+[2025.12.10-04.22.36:690][259]Total execution time: 75.90 seconds
+[2025.12.10-04.22.36:997][259]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.10-04.22.37:175][259]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.12.10-04.25.09:938][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6201.328125
+[2025.12.10-04.25.10:937][695]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.25.10:937][695]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6201.995117, Update Interval: 358.630341
+[2025.12.10-04.25.58:861][839]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug8c1bf39f-fa4f-4fbb-ab00-820e70f52b07 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\lukas\AppData\Local\Temp\DD82.tmp
+   Trwa tworzenie biblioteki C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.lib i obiektu C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_1.exp
+Detoured run took 1.5s
+[2025.12.10-04.25.59:319][839]LogClass: UPackage /Script/MyProject Reload.
+[2025.12.10-04.25.59:327][839]LogClass: Could not find existing class BasePlayerController in package /Script/MyProject for reload, assuming new or modified class
+[2025.12.10-04.26.00:284][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.12.10-04.26.00:698][840]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 39 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2025.12.10-04.26.00:698][840]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.10-04.26.26:014][763]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.26.26:253][763]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-04.26.26:253][763]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.26.27:975][763]LogDerivedDataCache: C:/Users/lukas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-04.26.29:777][763]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-04.26.31:085][763]
+[2025.12.10-04.26.31:085][763]Generating VisualStudio project files:
+[2025.12.10-04.26.31:085][763]Discovering modules, targets and source code for project...
+[2025.12.10-04.26.37:426][763]Adding projects for all targets...
+[2025.12.10-04.26.50:615][763]Adding projects for all targets took 13.15s
+[2025.12.10-04.26.50:615][763]Adding projects for all game projects took 0.00s
+[2025.12.10-04.26.51:621][763]Adding projects for all modules took 0.79s
+[2025.12.10-04.26.53:131][763]Compiling Rules Assemblies
+[2025.12.10-04.26.53:132][763]Compiling Rules Assemblies 100%
+[2025.12.10-04.26.53:132][763]Creating Build Targets
+[2025.12.10-04.26.59:777][763]Creating Build Targets 100%
+[2025.12.10-04.26.59:777][763]Creating Build Targets took 6.65s
+[2025.12.10-04.26.59:777][763]Binding IntelliSense data...
+[2025.12.10-04.27.56:854][763]Binding IntelliSense data... 1%
+[2025.12.10-04.28.07:349][763]Binding IntelliSense data... 33%
+[2025.12.10-04.28.17:539][763]Binding IntelliSense data... 64%
+[2025.12.10-04.28.19:358][763]Binding IntelliSense data... 100%
+[2025.12.10-04.28.19:358][763]Binding IntelliSense data took 79.62s
+[2025.12.10-04.28.19:358][763]Writing project files...
+[2025.12.10-04.28.22:985][763]Writing project files... 100%
+[2025.12.10-04.28.22:985][763]Writing project files took 3.66s
+[2025.12.10-04.28.22:985][763]
+[2025.12.10-04.28.22:985][763]Generating QueryTargets data for editor...
+[2025.12.10-04.28.22:985][763]Compiling Rules Assemblies
+[2025.12.10-04.28.22:985][763]Compiling Rules Assemblies 100%
+[2025.12.10-04.28.22:985][763]Writing Query Target Info
+[2025.12.10-04.28.23:085][763]Writing Query Target Info 100%
+[2025.12.10-04.28.23:085][763]Generating QueryTargets data for editor took 0.09s
+[2025.12.10-04.28.23:085][763]
+[2025.12.10-04.28.23:085][763]Result: Succeeded
+[2025.12.10-04.28.23:085][763]Total execution time: 115.20 seconds
+[2025.12.10-04.28.23:388][763]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.10-04.28.23:552][763]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.12.10-04.32.03:300][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6614.694336
+[2025.12.10-04.32.04:301][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.32.04:301][971]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6615.363770, Update Interval: 351.371796
+[2025.12.10-04.33.10:967][171]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug42a2ec2f-2e4b-4e3a-b04a-2280a4c2e68f ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\lukas\AppData\Local\Temp\7580.tmp
+   Trwa tworzenie biblioteki C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_2.lib i obiektu C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_2.exp
+Detoured run took 1.4s
+[2025.12.10-04.33.12:071][172]LogClass: UPackage /Script/MyProject Reload.
+[2025.12.10-04.33.12:080][172]LogClass: Could not find existing class BaseCharacter in package /Script/MyProject for reload, assuming new or modified class
+[2025.12.10-04.33.12:333][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.10-04.33.12:636][173]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 40 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2025.12.10-04.33.12:636][173]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.10-04.35.55:500][290]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.35.55:738][290]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-04.35.55:738][290]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.35.59:765][290]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-04.36.01:476][290]
+[2025.12.10-04.36.01:476][290]Generating VisualStudio project files:
+[2025.12.10-04.36.01:577][290]Discovering modules, targets and source code for project...
+[2025.12.10-04.36.12:848][290]Adding projects for all targets...
+[2025.12.10-04.36.25:028][290]Adding projects for all targets took 12.16s
+[2025.12.10-04.36.25:029][290]Adding projects for all game projects took 0.00s
+[2025.12.10-04.36.26:537][290]Adding projects for all modules took 1.15s
+[2025.12.10-04.36.28:348][290]Compiling Rules Assemblies
+[2025.12.10-04.36.28:349][290]Compiling Rules Assemblies 100%
+[2025.12.10-04.36.28:349][290]Creating Build Targets
+[2025.12.10-04.36.33:984][290]Creating Build Targets 100%
+[2025.12.10-04.36.33:984][290]Creating Build Targets took 5.68s
+[2025.12.10-04.36.33:984][290]Binding IntelliSense data...
+[2025.12.10-04.37.26:421][290]Binding IntelliSense data... 1%
+[2025.12.10-04.37.37:011][290]Binding IntelliSense data... 29%
+[2025.12.10-04.37.47:599][290]Binding IntelliSense data... 59%
+[2025.12.10-04.37.51:046][290]Binding IntelliSense data... 100%
+[2025.12.10-04.37.51:046][290]Binding IntelliSense data took 76.99s
+[2025.12.10-04.37.51:046][290]Writing project files...
+[2025.12.10-04.38.01:715][290]Writing project files... 67%
+[2025.12.10-04.38.01:715][290]Writing project files... 100%
+[2025.12.10-04.38.01:715][290]Writing project files took 10.73s
+[2025.12.10-04.38.01:715][290]
+[2025.12.10-04.38.01:715][290]Generating QueryTargets data for editor...
+[2025.12.10-04.38.01:715][290]Compiling Rules Assemblies
+[2025.12.10-04.38.01:715][290]Compiling Rules Assemblies 100%
+[2025.12.10-04.38.01:715][290]Writing Query Target Info
+[2025.12.10-04.38.01:816][290]Writing Query Target Info 100%
+[2025.12.10-04.38.01:816][290]Generating QueryTargets data for editor took 0.14s
+[2025.12.10-04.38.01:917][290]
+[2025.12.10-04.38.01:917][290]Result: Succeeded
+[2025.12.10-04.38.01:917][290]Total execution time: 124.39 seconds
+[2025.12.10-04.38.02:231][290]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.10-04.38.02:376][290]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.12.10-04.38.41:039][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7012.448242
+[2025.12.10-04.38.41:221][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.38.41:221][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7012.605957, Update Interval: 344.210327
+[2025.12.10-04.39.54:639][619]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug9049b7ce-bd2f-45f6-9c9f-725013d529ce ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\lukas\AppData\Local\Temp\9ED6.tmp
+   Trwa tworzenie biblioteki C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_3.lib i obiektu C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_3.exp
+Detoured run took 1.6s
+[2025.12.10-04.39.55:170][622]LogClass: UPackage /Script/MyProject Reload.
+[2025.12.10-04.39.55:184][622]LogClass: Could not find existing class BasePlayerCharacter in package /Script/MyProject for reload, assuming new or modified class
+[2025.12.10-04.39.55:429][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-04.39.55:752][623]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 41 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2025.12.10-04.39.55:752][623]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.10-04.40.30:895][  3]Running E:/UnrealEngine/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.40.30:997][  3]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2025.12.10-04.40.30:997][  3]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/MyProject.uproject" -game -rocket -progress
+[2025.12.10-04.40.33:010][  3]Log file: C:\Users\lukas\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.12.10-04.40.33:413][  3]
+[2025.12.10-04.40.33:413][  3]Generating VisualStudio project files:
+[2025.12.10-04.40.33:413][  3]Discovering modules, targets and source code for project...
+[2025.12.10-04.40.33:413][  3]Adding projects for all targets...
+[2025.12.10-04.40.34:823][  3]Adding projects for all targets took 1.32s
+[2025.12.10-04.40.34:823][  3]Adding projects for all game projects took 0.00s
+[2025.12.10-04.40.35:427][  3]Adding projects for all modules took 0.58s
+[2025.12.10-04.40.35:829][  3]Compiling Rules Assemblies
+[2025.12.10-04.40.35:829][  3]Compiling Rules Assemblies 100%
+[2025.12.10-04.40.35:829][  3]Creating Build Targets
+[2025.12.10-04.40.38:747][  3]Creating Build Targets 100%
+[2025.12.10-04.40.38:747][  3]Creating Build Targets took 2.94s
+[2025.12.10-04.40.38:747][  3]Binding IntelliSense data...
+[2025.12.10-04.40.43:284][  3]Binding IntelliSense data... 100%
+[2025.12.10-04.40.43:284][  3]Binding IntelliSense data took 4.51s
+[2025.12.10-04.40.43:284][  3]Writing project files...
+[2025.12.10-04.40.46:002][  3]Writing project files... 100%
+[2025.12.10-04.40.46:002][  3]Writing project files took 2.76s
+[2025.12.10-04.40.46:002][  3]
+[2025.12.10-04.40.46:002][  3]Generating QueryTargets data for editor...
+[2025.12.10-04.40.46:002][  3]Compiling Rules Assemblies
+[2025.12.10-04.40.46:002][  3]Compiling Rules Assemblies 100%
+[2025.12.10-04.40.46:002][  3]Writing Query Target Info
+[2025.12.10-04.40.46:103][  3]Writing Query Target Info 100%
+[2025.12.10-04.40.46:103][  3]Generating QueryTargets data for editor took 0.03s
+[2025.12.10-04.40.46:103][  3]
+[2025.12.10-04.40.46:103][  3]Result: Succeeded
+[2025.12.10-04.40.46:103][  3]Total execution time: 13.55 seconds
+[2025.12.10-04.40.46:310][  3]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.10-04.40.46:461][  3]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.12.10-04.41.33:038][797]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-43528563 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 0Gb)
+
+---- Starting trace: Debug65458c89-87f2-4cbd-8269-fa28e15abb17 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\link.exe @C:\Users\lukas\AppData\Local\Temp\20F3.tmp
+   Trwa tworzenie biblioteki C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_4.lib i obiektu C:\Users\lukas\Documents\GitKraken\UnrealZajecia\MyProject\Binaries\Win64\UnrealEditor-MyProject.patch_4.exp
+Detoured run took 1.3s
+[2025.12.10-04.41.33:495][800]LogClass: UPackage /Script/MyProject Reload.
+[2025.12.10-04.41.33:504][800]LogClass: Could not find existing class BaseEnemyCharacter in package /Script/MyProject for reload, assuming new or modified class
+[2025.12.10-04.41.33:700][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.12.10-04.41.34:060][801]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 42 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2025.12.10-04.41.34:060][801]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.12.10-04.45.24:433][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7415.813965
+[2025.12.10-04.45.24:610][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.45.24:610][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7415.965332, Update Interval: 346.881927
+[2025.12.10-04.47.34:894][435]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.10-04.47.38:107][452]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.12.10-04.47.44:345][453]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.10-04.47.44:347][453]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.12.10-04.47.44:414][453]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.10-04.47.44:414][453]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.12.10-04.49.38:253][846]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-04.49.38:264][846]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.10-04.50.14:780][768]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-04.50.14:796][768]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-04.50.14:831][769]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-04.50.18:960][919]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2025.12.10-04.50.18:962][919]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-04.50.22:325][136]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-04.50.22:335][136]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-04.50.22:410][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-04.50.24:525][219]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2025.12.10-04.50.24:525][219]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-04.50.26:781][352]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-04.50.26:794][352]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-04.50.26:808][353]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-04.50.29:011][436]LogContentBrowser: Attempting asset rename: NewFolder -> items
+[2025.12.10-04.50.29:012][436]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-04.50.31:847][601]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.12.10-04.50.31:861][601]LogContentBrowser: Creating deferred item: NewFolder
+[2025.12.10-04.50.31:880][602]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.12.10-04.50.33:766][673]LogContentBrowser: Attempting asset rename: NewFolder -> Game
+[2025.12.10-04.50.33:766][673]LogContentBrowser: End creating deferred item NewFolder
+[2025.12.10-04.51.39:932][958]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-04.51.40:035][958]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-04.51.40:046][958]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-04.51.40:258][960]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-04.51.46:860][201]LogContentBrowser: Attempting asset rename: NewBlueprint -> BaseCharacter_BP
+[2025.12.10-04.51.48:711][201]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-04.52.09:873][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7821.269043
+[2025.12.10-04.52.10:030][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.52.10:030][402]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7821.416504, Update Interval: 348.044678
+[2025.12.10-04.53.42:009][941]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-04.53.42:020][941]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-04.53.42:031][941]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-04.53.42:050][942]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-04.53.53:013][351]LogContentBrowser: Attempting asset rename: NewBlueprint -> BasePlayerCharacter_BP
+[2025.12.10-04.53.53:023][351]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-04.54.02:564][449]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-04.54.02:573][449]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-04.54.02:587][449]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-04.54.02:605][450]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-04.54.10:035][732]LogContentBrowser: Attempting asset rename: NewBlueprint -> BaseEnemyCharacter_BP
+[2025.12.10-04.54.10:045][732]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-04.54.21:603][142]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-04.54.21:613][142]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-04.54.21:626][142]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-04.54.21:653][144]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-04.54.28:261][389]LogContentBrowser: Attempting asset rename: NewBlueprint -> MasterGameMode_BP
+[2025.12.10-04.54.28:361][389]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-04.54.37:161][515]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.12.10-04.54.37:170][515]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.12.10-04.54.37:179][515]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.12.10-04.54.37:196][516]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.12.10-04.54.46:806][898]LogContentBrowser: Attempting asset rename: NewBlueprint -> BasePlayerController_BP
+[2025.12.10-04.54.46:882][898]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.12.10-04.55.36:046][350]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.12.10-04.55.44:980][350]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-04.55.45:511][350]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.12.10-04.55.45:585][350]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.12.10-04.55.45:616][350]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.12.10-04.55.45:680][351]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2025.12.10-04.56.00:646][940]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> PlayerAnimationBlueprint
+[2025.12.10-04.56.01:865][940]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.12.10-04.56.01:866][940]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.10-04.56.04:466][940]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2025.12.10-04.56.05:330][942]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.12.10-04.56.17:487][384]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_hairs_color.T_Urban_Nomad_hairs_color (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 80.083323 MB), EncodeSpeed: Fast
+[2025.12.10-04.56.17:617][387]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_hairs_alpha.T_Urban_Nomad_hairs_alpha (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 77.083323 MB), EncodeSpeed: Fast
+[2025.12.10-04.56.17:861][398]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_OcclusionRoughnessMetallic.T_Urban_Nomad_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.10-04.56.18:061][403]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_Normal.T_Urban_Nomad_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.10-04.56.19:582][460]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_SSS.T_Urban_Nomad_SSS (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.10-04.56.19:876][471]LogTexture: Display: Building textures: /Game/Urban_Nomad/Textures/T_Urban_Nomad_BaseColor.T_Urban_Nomad_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.12.10-04.58.37:576][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8208.955078
+[2025.12.10-04.58.37:784][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-04.58.37:784][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8209.136719, Update Interval: 330.008240
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: ================================================
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Total job queries 2 560, among them cache hits 8 (0.31%), DDC hits 1 501 (58.63%), Duplicates 716 (27.97%)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Tracking 1 836 distinct input hashes that result in 1 156 distinct outputs (62.96%)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: RAM used: 11,81 MiB of 819,20 MiB budget. Usage: 1.44%
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Shaders Compiled: 335
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Jobs assigned 335, completed 335 (100%)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Average time worker was idle: 84.06 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Time job spent in pending queue: average 23.74 s, longest 143.96 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Job execution time: average 7.14 s, max 143.45 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Job life time (pending + execution): average 30.88 s, max 144.80
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Shader code size: total 3,359 MiB, numShaders 358, average 9,608 KiB, min 2,246 KiB, max 51,403 KiB
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 239.49 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.38%
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Jobs were issued in 214 batches (only local compilation was used), average 1.57 jobs/batch
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Average processing rate: 1.40 jobs/sec
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Total thread time: 298,81 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Total thread preprocess time: 45,062 s
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Percentage time preprocessing: 15.08%
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Effective parallelization: 1.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 4 - 0.311927
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                    TVirtualTexturePSBaseColorNormalRoughness (compiled    2 times, average 4.10 sec, max 7.30 sec, min 0.89 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                                 TVirtualTexturePSWorldHeight (compiled    2 times, average 4.06 sec, max 7.30 sec, min 0.82 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                                   TVirtualTexturePSBaseColor (compiled    2 times, average 4.05 sec, max 7.30 sec, min 0.79 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.30 sec, max 3.30 sec, min 3.30 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                                                  FVelocityPS - 8.77% of total time (compiled   23 times, average 1.14 sec, max 3.26 sec, min 0.68 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.72% of total time (compiled   26 times, average 1.00 sec, max 7.30 sec, min 0.48 sec)
+[2025.12.10-04.59.05:321][754]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.43% of total time (compiled   26 times, average 0.97 sec, max 4.06 sec, min 0.43 sec)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.95% of total time (compiled   13 times, average 1.60 sec, max 2.44 sec, min 1.26 sec)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.57% of total time (compiled   26 times, average 0.76 sec, max 7.30 sec, min 0.28 sec)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: === Material stats ===
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Materials Translated:    146
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Material Total Translate Time: 3.62 s
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Material Translation Only: 1.05 s (29%)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.12.10-04.59.05:322][754]LogShaderCompilers: Display: ================================================
+[2025.12.10-04.59.21:018][336]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.12.10-04.59.21:028][336]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.12.10-04.59.21:049][337]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.12.10-04.59.25:709][517]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2025.12.10-04.59.25:759][517]LogContentBrowser: End creating deferred item NewInputAction
+[2025.12.10-04.59.31:658][975]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.12.10-04.59.31:672][975]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.12.10-04.59.31:687][976]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.12.10-04.59.37:736][211]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2025.12.10-04.59.37:737][211]LogContentBrowser: End creating deferred item NewInputAction
+[2025.12.10-04.59.51:596][491]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.12.10-05.00.56:634][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-05.00.56:804][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.12.10-05.00.56:804][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.12.10-05.00.56:849][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/IMC_Default.uasset" SILENT=true
+[2025.12.10-05.00.57:008][259]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.12.10-05.00.57:009][259]LogSavePackage: Moving 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/IMC_DefaultB64E04E34402D3CADFDDADA0AD71BAFD.tmp' to 'C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Content/Input/IMC_Default.uasset'
+[2025.12.10-05.00.57:120][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 486.430 ms
+[2025.12.10-05.00.57:305][259]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-05.00.57:305][259]LogContentValidation: Enabled validators:
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-05.00.57:305][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-05.00.57:385][259]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.12.10-05.00.57:416][259]LogSourceControl: Display: Uncontrolled Changelist persistency file saved C:/Users/lukas/Documents/GitKraken/UnrealZajecia/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.10-05.01.01:090][391]LogSlate: Window 'IMC_Default' being destroyed
+[2025.12.10-05.01.01:097][391]LogSlate: Window 'IMC_Default' being destroyed
